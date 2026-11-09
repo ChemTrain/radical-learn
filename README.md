@@ -24,7 +24,7 @@ The philicity and polarity-matching questions follow F. Parsaee, M. C. Senarathn
 
 If you use Radical Learn in a course, a worksheet or a paper, please cite it:
 
-> Bindschaedler, Q. *Radical Learn* (2026). ChemTrain. https://github.com/ChemTrain/radical-learn
+> Bindschaedler, Q. P. *Radical Learn* (2026). ChemTrain. https://github.com/ChemTrain/radical-learn
 
 GitHub's **Cite this repository** button (from `CITATION.cff`) gives the same reference in APA and BibTeX.
 

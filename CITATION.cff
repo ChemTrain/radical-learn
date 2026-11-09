@@ -4,7 +4,7 @@ title: "Radical Learn"
 type: software
 authors:
   - family-names: Bindschaedler
-    given-names: Quentin
+    given-names: Quentin P.
     affiliation: ChemTrain
 abstract: "A Quizlet-style trainer for radical philicity, polarity matching and the regioselectivity of radical reactions, in one HTML file."
 url: "https://chemtrain.github.io/radical-learn/radical_learn.html"
