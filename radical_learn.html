@@ -1670,6 +1670,7 @@ function makeQuiz(cfg) {
         <p class="fbline">The answer is ${what}.</p>
         ${q.note ? `<p class="note">${esc(q.note)}</p>` : ''}
         ${q.src ? `<p class="src">Source: <a href="${esc(q.src[1])}" target="_blank" rel="noopener">${esc(q.src[0])} ↗</a></p>` : ''}
+        ${q.wiki ? `<p class="src">Wikipedia: <a href="${esc(q.wiki[1])}" target="_blank" rel="noopener">${esc(q.wiki[0])} ↗</a></p>` : ''}
         <div class="row end"><button type="button" class="btn q-next">${Q.i + 1 < Q.deck.length ? 'Next question' : 'See results'}</button></div>
       </div>`;
   }
